@@ -1,0 +1,3 @@
+/home/coder/Projects/Wabbitemu-Android/app/.cxx/Debug/w3s76g3n/arm64-v8a/CMakeFiles/Wabbitemu.dir
+/home/coder/Projects/Wabbitemu-Android/app/.cxx/Debug/w3s76g3n/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/coder/Projects/Wabbitemu-Android/app/.cxx/Debug/w3s76g3n/arm64-v8a/CMakeFiles/rebuild_cache.dir

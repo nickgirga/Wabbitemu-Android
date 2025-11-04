@@ -124,10 +124,10 @@ public class CalculatorManager {
         final long tstates = CalcInterface.Tstates();
         final long timePressed = mKeyTimePressed[group][bit];
         if (group == CalcInterface.ON_KEY_GROUP && bit == CalcInterface.ON_KEY_BIT) {
-            return ((timePressed + MIN_TSTATE_ON_KEY) <= tstates) && ((timePressed + MAX_TSTATE_ON_KEY) <= tstates);
+            // Key has NOT been processed if not enough time passed OR too much time passed
+            return (tstates < timePressed + MIN_TSTATE_ON_KEY) || (tstates > timePressed + MAX_TSTATE_ON_KEY);
         } else {
-            return ((timePressed + MIN_TSTATE_KEY) <= tstates)
-                    && ((timePressed + MAX_TSTATE_KEY) <= tstates);
+            return (tstates < timePressed + MIN_TSTATE_KEY) || (tstates > timePressed + MAX_TSTATE_KEY);
         }
     }
 

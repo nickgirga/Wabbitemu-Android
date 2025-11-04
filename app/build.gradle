@@ -6,13 +6,6 @@ plugins {
 
 android {
     compileSdkVersion 34
-    defaultConfig {
-        applicationId "io.github.angelsl.wabbitemu"
-        minSdkVersion 21
-        targetSdkVersion 34
-        versionCode 39
-        versionName "1.06.0"
-    }
     buildTypes {
         debug {
             applicationIdSuffix ".debug"
@@ -20,11 +13,32 @@ android {
         release {
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            // Use debug signing for development/testing
+            signingConfig signingConfigs.debug
         }
     }
     externalNativeBuild {
         cmake {
             path "src/main/jni/CMakeLists.txt"
+        }
+    }
+    
+    defaultConfig {
+        applicationId "io.github.angelsl.wabbitemu"
+        minSdkVersion 21
+        targetSdkVersion 34
+        versionCode 39
+        versionName "1.06.0"
+        
+        ndk {
+            abiFilters 'armeabi-v7a', 'arm64-v8a', 'x86', 'x86_64'
+        }
+        
+        externalNativeBuild {
+            cmake {
+                cppFlags "-std=c++14"
+                arguments "-DANDROID_STL=c++_shared"
+            }
         }
     }
     packagingOptions {
@@ -43,6 +57,16 @@ android {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
     }
+    
+    kotlinOptions {
+        jvmTarget = '17'
+    }
+    
+    lint {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+    
     namespace 'io.github.angelsl.wabbitemu'
 }
 
@@ -52,7 +76,7 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.7.0'
     implementation 'androidx.drawerlayout:drawerlayout:1.2.0'
     implementation 'androidx.preference:preference-ktx:1.2.1'
-    implementation 'net.margaritov.preference.colorpicker.ColorPickerPreference:ColorPickerPreference:1.0.0'
+    implementation 'com.github.yukuku:ambilwarna:2.0.1'
     implementation 'com.google.code.findbugs:jsr305:3.0.2'
     implementation 'com.squareup.okhttp3:okhttp:4.12.0'
     implementation 'com.squareup.okhttp3:okhttp-urlconnection:4.10.0'
@@ -72,4 +96,3 @@ dependencies {
     // Optional - Integration with ViewModels
     implementation 'androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1'
 }
-

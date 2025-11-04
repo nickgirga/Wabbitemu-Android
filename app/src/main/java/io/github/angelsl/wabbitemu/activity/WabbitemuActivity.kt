@@ -334,27 +334,9 @@ class WabbitemuActivity : AppCompatActivity() {
     }
 
     private fun launchBrowse() {
-        startActivity(Intent(this, ChooseFileActivity::class.java))
-        /*
-        val setupIntent = Intent(this, BrowseActivity::class.java)
-        // not perfect but it will work well enough
-        val extensions = when (mCalcManager.model) {
-            CalcModel.TI_73 -> "\\.(rom|sav|73[b|c|d|g|i|k|l|m|n|p|q|s|t|u|v|w|y|z])$"
-            CalcModel.TI_82 -> "\\.(rom|sav|82[b|c|d|g|i|l|m|n|p|q|s|t|u|v|w|y|z])$"
-            CalcModel.TI_83 -> "\\.(rom|sav|83[b|c|d|g|i|l|m|n|p|q|s|t|u|v|w|y|z])$"
-            CalcModel.TI_83P,
-            CalcModel.TI_83PSE,
-            CalcModel.TI_84P,
-            CalcModel.TI_84PSE -> "\\.(rom|sav|8x[b|c|d|g|i|k|l|m|n|p|q|s|t|u|v|w|y|z])$"
-            CalcModel.TI_84PCSE -> "\\.(rom|sav|8[x|c][b|c|d|g|i|k|l|m|n|p|q|s|t|u|v|w|y|z])$"
-            CalcModel.TI_85 -> "\\.(rom|sav|85[b|c|d|g|i|l|m|n|p|q|s|t|u|v|w|y|z])$"
-            CalcModel.TI_86 -> "\\.(rom|sav|86[b|c|d|g|i|l|m|n|p|q|s|t|u|v|w|y|z])$"
-            else -> DEFAULT_FILE_REGEX
-        }
-        val description = resources.getString(R.string.browseFileDescription)
-        setupIntent.putExtra(IntentConstants.EXTENSION_EXTRA_REGEX, extensions)
-        setupIntent.putExtra(IntentConstants.BROWSE_DESCRIPTION_EXTRA_STRING, description)
-        startActivityForResult(setupIntent, LOAD_FILE_CODE)*/
+        // Use modern Storage Access Framework via ChooseFileActivity
+        val intent = Intent(this, ChooseFileActivity::class.java)
+        startActivityForResult(intent, LOAD_FILE_CODE)
     }
 
     private fun launchWizard() {

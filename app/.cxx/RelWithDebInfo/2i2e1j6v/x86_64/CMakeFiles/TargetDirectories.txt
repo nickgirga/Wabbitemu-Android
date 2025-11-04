@@ -1,0 +1,3 @@
+/home/coder/Projects/Wabbitemu-Android/app/.cxx/RelWithDebInfo/2i2e1j6v/x86_64/CMakeFiles/Wabbitemu.dir
+/home/coder/Projects/Wabbitemu-Android/app/.cxx/RelWithDebInfo/2i2e1j6v/x86_64/CMakeFiles/edit_cache.dir
+/home/coder/Projects/Wabbitemu-Android/app/.cxx/RelWithDebInfo/2i2e1j6v/x86_64/CMakeFiles/rebuild_cache.dir

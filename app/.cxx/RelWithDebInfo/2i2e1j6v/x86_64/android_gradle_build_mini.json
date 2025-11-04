@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/opt/android-sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/coder/Projects/Wabbitemu-Android/app/.cxx/RelWithDebInfo/2i2e1j6v/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/opt/android-sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/coder/Projects/Wabbitemu-Android/app/.cxx/RelWithDebInfo/2i2e1j6v/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "Wabbitemu::@6890427a1f51a3e7e1df": {
+      "artifactName": "Wabbitemu",
+      "abi": "x86_64",
+      "output": "/home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86_64/libWabbitemu.so",
+      "runtimeFiles": []
+    }
+  }
+}
