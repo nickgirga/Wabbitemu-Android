@@ -98,13 +98,8 @@ public class CalcSkin extends View {
 	}
 
 	private boolean handleTouchEvent(final MotionEvent event, final int index) {
-		// Get raw touch coordinates
-		final float rawX = event.getX(index);
-		final float rawY = event.getY(index);
-		
-		// Transform to skin-space coordinates accounting for skin position and offsets
-		final int x = (int) (rawX - mSkinLoader.getSkinX() + mSkinLoader.getSkinRect().left);
-		final int y = (int) (rawY - mSkinLoader.getSkinY() + mSkinLoader.getSkinRect().top);
+		final int x = (int) (event.getX(index) - mSkinLoader.getSkinX());
+		final int y = (int) (event.getY(index) - mSkinLoader.getSkinY());
 		final int id = event.getPointerId(index);
 
 		if (mSkinLoader.isOutsideKeymap(x, y)) {

@@ -413,42 +413,9 @@ public class WabbitemuActivityJava extends AppCompatActivity {
 	}
 
 	private void launchBrowse() {
-		final Intent setupIntent = new Intent(this, BrowseActivity.class);
-		// not perfect but it will work well enough
-		final String extensions;
-		switch (mCalcManager.getModel()) {
-		case TI_73:
-			extensions = "\\.(rom|sav|73[b|c|d|g|i|k|l|m|n|p|q|s|t|u|v|w|y|z])$";
-			break;
-		case TI_82:
-			extensions = "\\.(rom|sav|82[b|c|d|g|i|l|m|n|p|q|s|t|u|v|w|y|z])$";
-			break;
-		case TI_83:
-			extensions = "\\.(rom|sav|83[b|c|d|g|i|l|m|n|p|q|s|t|u|v|w|y|z])$";
-			break;
-		case TI_83P:
-		case TI_83PSE:
-		case TI_84P:
-		case TI_84PSE:
-			extensions = "\\.(rom|sav|8x[b|c|d|g|i|k|l|m|n|p|q|s|t|u|v|w|y|z])$";
-			break;
-		case TI_84PCSE:
-			extensions = "\\.(rom|sav|8[x|c][b|c|d|g|i|k|l|m|n|p|q|s|t|u|v|w|y|z])$";
-			break;
-		case TI_85:
-			extensions = "\\.(rom|sav|85[b|c|d|g|i|l|m|n|p|q|s|t|u|v|w|y|z])$";
-			break;
-		case TI_86:
-			extensions = "\\.(rom|sav|86[b|c|d|g|i|l|m|n|p|q|s|t|u|v|w|y|z])$";
-			break;
-		default:
-			extensions = DEFAULT_FILE_REGEX;
-			break;
-		}
-		final String description = getResources().getString(R.string.browseFileDescription);
-		setupIntent.putExtra(IntentConstants.EXTENSION_EXTRA_REGEX, extensions);
-		setupIntent.putExtra(IntentConstants.BROWSE_DESCRIPTION_EXTRA_STRING, description);
-		startActivityForResult(setupIntent, LOAD_FILE_CODE);
+		// Use modern Storage Access Framework via ChooseFileActivity
+		final Intent intent = new Intent(this, ChooseFileActivity.class);
+		startActivityForResult(intent, LOAD_FILE_CODE);
 	}
 
 	private void launchWizard() {
