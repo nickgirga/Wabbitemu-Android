@@ -191,7 +191,8 @@ public class CalcKeyManager {
 		for (int i = 0; i < mKeysDown.size(); i++) {
 			final KeyMapping possibleMapping = mKeysDown.get(i);
 			if (possibleMapping != null && possibleMapping.getKey() == id) {
-				mapping = mKeysDown.get(i);
+				mapping = possibleMapping;
+				break;  // Critical fix: stop searching once found
 			}
 		}
 
