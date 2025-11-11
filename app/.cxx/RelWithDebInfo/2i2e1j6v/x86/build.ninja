@@ -56,8 +56,6 @@ build CMakeFiles/Wabbitemu.dir/core/core.c.o: C_COMPILER__Wabbitemu_RelWithDebIn
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/core
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/core/indexcb.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core/indexcb.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -66,8 +64,6 @@ build CMakeFiles/Wabbitemu.dir/core/indexcb.c.o: C_COMPILER__Wabbitemu_RelWithDe
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/core
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/core/alu.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core/alu.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -76,8 +72,6 @@ build CMakeFiles/Wabbitemu.dir/core/alu.c.o: C_COMPILER__Wabbitemu_RelWithDebInf
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/core
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/core/device.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core/device.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -86,8 +80,6 @@ build CMakeFiles/Wabbitemu.dir/core/device.c.o: C_COMPILER__Wabbitemu_RelWithDeb
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/core
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/core/control.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core/control.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -96,8 +88,6 @@ build CMakeFiles/Wabbitemu.dir/core/control.c.o: C_COMPILER__Wabbitemu_RelWithDe
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/core
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/interface/calc.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface/calc.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -106,8 +96,6 @@ build CMakeFiles/Wabbitemu.dir/interface/calc.c.o: C_COMPILER__Wabbitemu_RelWith
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/interface
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/interface/state.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface/state.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -116,8 +104,6 @@ build CMakeFiles/Wabbitemu.dir/interface/state.c.o: C_COMPILER__Wabbitemu_RelWit
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/interface
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/hardware/81hw.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware/81hw.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -126,8 +112,6 @@ build CMakeFiles/Wabbitemu.dir/hardware/81hw.c.o: C_COMPILER__Wabbitemu_RelWithD
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/hardware
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/hardware/83hw.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware/83hw.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -136,8 +120,6 @@ build CMakeFiles/Wabbitemu.dir/hardware/83hw.c.o: C_COMPILER__Wabbitemu_RelWithD
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/hardware
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/hardware/83phw.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware/83phw.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -146,8 +128,6 @@ build CMakeFiles/Wabbitemu.dir/hardware/83phw.c.o: C_COMPILER__Wabbitemu_RelWith
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/hardware
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/hardware/83psehw.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware/83psehw.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -156,8 +136,6 @@ build CMakeFiles/Wabbitemu.dir/hardware/83psehw.c.o: C_COMPILER__Wabbitemu_RelWi
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/hardware
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/hardware/86hw.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware/86hw.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -166,8 +144,6 @@ build CMakeFiles/Wabbitemu.dir/hardware/86hw.c.o: C_COMPILER__Wabbitemu_RelWithD
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/hardware
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/hardware/lcd.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware/lcd.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -176,8 +152,6 @@ build CMakeFiles/Wabbitemu.dir/hardware/lcd.c.o: C_COMPILER__Wabbitemu_RelWithDe
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/hardware
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/hardware/link.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware/link.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -186,8 +160,6 @@ build CMakeFiles/Wabbitemu.dir/hardware/link.c.o: C_COMPILER__Wabbitemu_RelWithD
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/hardware
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/hardware/colorlcd.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware/colorlcd.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -196,8 +168,6 @@ build CMakeFiles/Wabbitemu.dir/hardware/colorlcd.c.o: C_COMPILER__Wabbitemu_RelW
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/hardware
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/hardware/keys.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware/keys.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -206,8 +176,6 @@ build CMakeFiles/Wabbitemu.dir/hardware/keys.c.o: C_COMPILER__Wabbitemu_RelWithD
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/hardware
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/utilities/var.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities/var.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -216,8 +184,6 @@ build CMakeFiles/Wabbitemu.dir/utilities/var.c.o: C_COMPILER__Wabbitemu_RelWithD
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/utilities
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/utilities/savestate.cpp.o: CXX_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities/savestate.cpp || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -226,8 +192,6 @@ build CMakeFiles/Wabbitemu.dir/utilities/savestate.cpp.o: CXX_COMPILER__Wabbitem
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/utilities
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/utilities/sendfile.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities/sendfile.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -236,8 +200,6 @@ build CMakeFiles/Wabbitemu.dir/utilities/sendfile.c.o: C_COMPILER__Wabbitemu_Rel
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/utilities
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/utilities/label.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities/label.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -246,8 +208,6 @@ build CMakeFiles/Wabbitemu.dir/utilities/label.c.o: C_COMPILER__Wabbitemu_RelWit
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/utilities
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/utilities/gif.cpp.o: CXX_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities/gif.cpp || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -256,8 +216,6 @@ build CMakeFiles/Wabbitemu.dir/utilities/gif.cpp.o: CXX_COMPILER__Wabbitemu_RelW
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/utilities
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/utilities/linksendvar.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities/linksendvar.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -266,8 +224,6 @@ build CMakeFiles/Wabbitemu.dir/utilities/linksendvar.c.o: C_COMPILER__Wabbitemu_
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/utilities
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/utilities/screenshothandle.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities/screenshothandle.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -276,8 +232,6 @@ build CMakeFiles/Wabbitemu.dir/utilities/screenshothandle.c.o: C_COMPILER__Wabbi
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/utilities
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/utilities/exportvar.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities/exportvar.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -286,8 +240,6 @@ build CMakeFiles/Wabbitemu.dir/utilities/exportvar.c.o: C_COMPILER__Wabbitemu_Re
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/utilities
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/utilities/sound.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities/sound.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -296,8 +248,6 @@ build CMakeFiles/Wabbitemu.dir/utilities/sound.c.o: C_COMPILER__Wabbitemu_RelWit
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/utilities
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/utilities/breakpoint.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities/breakpoint.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -306,8 +256,6 @@ build CMakeFiles/Wabbitemu.dir/utilities/breakpoint.c.o: C_COMPILER__Wabbitemu_R
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/utilities
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/utilities/zpipe.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities/zpipe.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -316,8 +264,6 @@ build CMakeFiles/Wabbitemu.dir/utilities/zpipe.c.o: C_COMPILER__Wabbitemu_RelWit
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir/utilities
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 build CMakeFiles/Wabbitemu.dir/wabbitemujni.c.o: C_COMPILER__Wabbitemu_RelWithDebInfo /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/wabbitemujni.c || cmake_object_order_depends_target_Wabbitemu
   DEFINES = -DHIGH_SHADE_GIF -DVERBOSE -DWabbitemu_EXPORTS -D_ANDROID
@@ -326,8 +272,6 @@ build CMakeFiles/Wabbitemu.dir/wabbitemujni.c.o: C_COMPILER__Wabbitemu_RelWithDe
   INCLUDES = -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/. -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/core -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/utilities -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/interface -I/home/coder/Projects/Wabbitemu-Android/app/src/main/jni/hardware
   OBJECT_DIR = CMakeFiles/Wabbitemu.dir
   OBJECT_FILE_DIR = CMakeFiles/Wabbitemu.dir
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
 
 
 # =============================================================================
@@ -346,9 +290,8 @@ build /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWith
   PRE_LINK = :
   SONAME = libWabbitemu.so
   SONAME_FLAG = -Wl,-soname,
-  TARGET_COMPILE_PDB = CMakeFiles/Wabbitemu.dir/
   TARGET_FILE = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.so
-  TARGET_PDB = /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/cxx/RelWithDebInfo/2i2e1j6v/obj/x86/libWabbitemu.pdb
+  TARGET_PDB = Wabbitemu.so.dbg
 
 
 #############################################
@@ -397,14 +340,14 @@ build all: phony /home/coder/Projects/Wabbitemu-Android/app/build/intermediates/
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/CMakeLists.txt /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCCompilerABI.c /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXCompiler.cmake.in /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCXXCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeSystem.cmake.in /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeTestCCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeTestCXXCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-C.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-CXX.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-FindBinUtils.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GNU-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GNU.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/HP-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/XL-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/zOS-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang-C.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang-CXX.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Determine-C.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Determine-CXX.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Determine.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Initialize.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android/Determine-Compiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Linux.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/UnixPaths.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/flags.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android-Clang.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android-Determine.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android-Initialize.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Determine-Compiler.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/platforms.cmake CMakeCache.txt CMakeFiles/3.22.1-g37088a8/CMakeCCompiler.cmake CMakeFiles/3.22.1-g37088a8/CMakeCXXCompiler.cmake CMakeFiles/3.22.1-g37088a8/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/CMakeLists.txt /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-C.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-CXX.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GNU.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang-C.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang-CXX.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Initialize.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Linux.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/UnixPaths.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/flags.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android-Clang.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android-Initialize.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/platforms.cmake CMakeCache.txt CMakeFiles/3.22.1-g37088a8/CMakeCCompiler.cmake CMakeFiles/3.22.1-g37088a8/CMakeCXXCompiler.cmake CMakeFiles/3.22.1-g37088a8/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/CMakeLists.txt /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCCompilerABI.c /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXCompiler.cmake.in /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCXXCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeSystem.cmake.in /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeTestCCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeTestCXXCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-C.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-CXX.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-FindBinUtils.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GNU-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GNU.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/HP-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/XL-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/zOS-C-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang-C.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang-CXX.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Determine-C.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Determine-CXX.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Determine.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Initialize.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android/Determine-Compiler.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Linux.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/UnixPaths.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/flags.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android-Clang.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android-Determine.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android-Initialize.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Determine-Compiler.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/platforms.cmake CMakeCache.txt CMakeFiles/3.22.1-g37088a8/CMakeCCompiler.cmake CMakeFiles/3.22.1-g37088a8/CMakeCXXCompiler.cmake CMakeFiles/3.22.1-g37088a8/CMakeSystem.cmake: phony
+build /home/coder/Projects/Wabbitemu-Android/app/src/main/jni/CMakeLists.txt /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-C.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-CXX.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GNU.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang-C.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang-CXX.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Initialize.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Linux.cmake /opt/android-sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/UnixPaths.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/flags.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android-Clang.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android-Initialize.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android.cmake /opt/android-sdk/ndk/25.1.8937393/build/cmake/platforms.cmake CMakeCache.txt CMakeFiles/3.22.1-g37088a8/CMakeCCompiler.cmake CMakeFiles/3.22.1-g37088a8/CMakeCXXCompiler.cmake CMakeFiles/3.22.1-g37088a8/CMakeSystem.cmake: phony
 
 
 #############################################
